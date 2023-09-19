@@ -31,3 +31,6 @@ A program structure inspired by the human brain that is able to perform tasks ef
 ## Language
 
 Processing natural language, which is produced and understood by humans.
+
+Author: Harvard CS50's Introduction to Artificial Intelligence with Python
+License: https://cs50.harvard.edu/ai/2023/license/
